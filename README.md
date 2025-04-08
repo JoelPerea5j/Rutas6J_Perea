@@ -1,5 +1,15 @@
 # Act5_Rutas
 
+![image](https://github.com/user-attachments/assets/c5d1bddc-aa9c-44f4-90bf-ccb74260ec4d)
+-pantalla 2,
+
+![image](https://github.com/user-attachments/assets/fba6de80-e631-4603-8549-53cf2bb96683)
+-pantalla 3
+
+![image](https://github.com/user-attachments/assets/8a378577-b3d5-43eb-a39e-96bac67301d9)
+
+
+
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
